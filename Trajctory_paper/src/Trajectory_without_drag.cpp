@@ -79,7 +79,6 @@ T fifth_2deriv(T a1, T a2, T a3, T a4, T a5)
 	srand(time(NULL));
 
 
-
 	frexp(-1, &exponent); // Get exponent of z (ignore mantissa).
 	T guess = 10.0;// ldexp(1., exponent / 5); // Rough guess is to divide the exponent by three.
 	T min = ldexp(-1, exponent / 5); // Minimum possible value is half our guess.
