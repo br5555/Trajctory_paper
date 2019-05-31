@@ -1,8 +1,8 @@
 # Trajectory_paper
 
-authors=M. Beul and S. Behnke
-booktitle =  2016 International Conference on Unmanned Aircraft Systems(ICUAS) 
-title =  Analytical time - optimal trajectory generation and control for multirotors 
+ * Authors = M. Beul and S. Behnke
+ * Booktitle =  2016 International Conference on Unmanned Aircraft Systems(ICUAS) 
+ * Title =  Analytical time - optimal trajectory generation and control for multirotors 
 
 ## Getting Started
 
