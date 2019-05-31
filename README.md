@@ -3,6 +3,8 @@
  * Authors = M. Beul and S. Behnke
  * Booktitle =  2016 International Conference on Unmanned Aircraft Systems(ICUAS) 
  * Title =  Analytical time - optimal trajectory generation and control for multirotors 
+ 
+ [CHECK MATLAB IMPLEMENTATION](https://github.com/br5555/local_trajectory_planner)
 
 ## Getting Started
 
